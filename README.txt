@@ -1,0 +1,1 @@
+Use Live Server and add screenshots to images folder.

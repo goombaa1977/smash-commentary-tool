@@ -1,0 +1,30 @@
+body {
+    background: #1b1f2a;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+}
+
+.panel {
+    width: 50%;
+    background: #2a2f3d;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img {
+    max-width: 100%;
+}
