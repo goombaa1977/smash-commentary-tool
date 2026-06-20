@@ -12,7 +12,7 @@ function render(character, panelId) {
     document.getElementById(panelId).innerHTML = `
         <h2>${character}</h2>
 
-        <img src="images/${c.image}" alt="${character}">
+        <img src="${c.image}" alt="${character}">
 
         <p><b>Weight:</b> ${c.weight}</p>
         <p><b>Weight Class:</b> ${c.weightClass}</p>
