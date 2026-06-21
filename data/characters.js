@@ -589,7 +589,7 @@ notes:["Excellent neutral","Powerful aerials","Strong ledge trapping"]
   notes: ["Add character-specific notes."]
 },
 "Rosalina & Luma": {
-  image: "rosalina_and_luma.png",
+  image: "rosalina_luma.png",
   weight: "TBD",
   weightClass: "TBD",
   archetype: "Varies",
