@@ -632,8 +632,8 @@ oos:["Nair"],
 recovery:"Teleport recovery is difficult to challenge.",
 notes:["Excellent mobility","Strong aerial pressure","Excellent edgeguarding"]
 },
-"Pac-Man": {
-  image: "pac-man.png",
+"pac_man": {
+  image: "pac_man.png",
   weight: "TBD",
   weightClass: "TBD",
   archetype: "Varies",
