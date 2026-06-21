@@ -1008,3 +1008,19 @@ notes:["Very floaty","Exceptional offstage game","Lightweight"]
   notes: ["Add character-specific notes."]
 }
 };
+"Mii Brawler":{
+image:"mii_brawler.png",
+weight:"94",
+weightClass:"Middleweight",
+archetype:"Rushdown",
+combos:["Down Throw → Up B","Nair → Fair","Up Air strings"],
+killConfirms:["Thrupper","Back Air","Forward Smash"],
+oos:["Up B"],
+recovery:"Good recovery depending on specials selected.",
+notes:[
+"Fast close-range fighter",
+"Strong combo game",
+"Custom specials change playstyle",
+"Excellent frame data"
+]
+},
