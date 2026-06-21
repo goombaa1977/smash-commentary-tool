@@ -1,9 +1,11 @@
 const p1 = document.getElementById("player1");
 const p2 = document.getElementById("player2");
 
-Object.keys(characters).forEach(char => {
-    p1.innerHTML += `<option>${char}</option>`;
-    p2.innerHTML += `<option>${char}</option>`;
+Object.keys(characters)
+.sort()
+.forEach(character => {
+    p1.innerHTML += `<option>${character}</option>`;
+    p2.innerHTML += `<option>${character}</option>`;
 });
 
 function render(character, panelId) {
