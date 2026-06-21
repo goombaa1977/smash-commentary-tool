@@ -633,7 +633,7 @@ recovery:"Teleport recovery is difficult to challenge.",
 notes:["Excellent mobility","Strong aerial pressure","Excellent edgeguarding"]
 },
 "Pac-Man": {
-  image: "pac-man.png",
+  image: "pac_man.png",
   weight: "TBD",
   weightClass: "TBD",
   archetype: "Varies",
